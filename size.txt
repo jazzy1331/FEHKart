@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+  45436	   3424	   5552	  54412	   d48c	../MarioKartUpgraded.elf
